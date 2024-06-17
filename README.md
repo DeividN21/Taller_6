@@ -10,11 +10,12 @@ Taller: Investigando y Desarrollando el uso de Pathfinding en videojuegos
 - https://www.mixamo.com/#/
 
 # Vista General de la Escena
-![Imagen](https://github.com/DeividN21/Taller_5/blob/main/VistaGeneral.png?raw=true)
+![Imagen](https://github.com/DeividN21/Taller_6/blob/main/Captura%20de%20pantalla%202024-06-16%20190520.png?raw=true)
 
 # Instrucciones para Navegar por la Escena:
 ### Primero:
-Se muestra al personaje, el cual tendrá que ir por el escenario recorriendo los diferentes obstáculos. Usando las flechas o las teclas AWSD.
+Se muestra al personaje, el cual tendrá que ir por el escenario recorriendo los diferentes obstáculos y evitando que los zombies lo asesinen.
+Para su movimiento se usan las flechas o las teclas AWSD.
 
 ![Imagen](https://github.com/DeividN21/Taller_2/blob/main/Instrucciones1.png?raw=true)
 
@@ -33,13 +34,9 @@ Puede correr con la tecla "Shift".
 
 ![Imagen](https://github.com/DeividN21/Taller_5/blob/main/shift_button.jpg?raw=true)
 
-### Segundo:
-Se debe recorrer todos los obstáculos hasta llegar a la rampa final.
-
-![Imagen](https://github.com/DeividN21/Taller_5/blob/main/rampa_final.png?raw=true)
 
 # Enlace del Video de Demostración
-- https://youtu.be/acsMsB8ohCc
+- enlace
   
 # Enlace de Videojuego subido a itch.io
-- https://deividn21.itch.io/taller-5-incrementando-la-juiciness-en-videojuegos
+- https://deividn21.itch.io/taller-pathfinding
