@@ -36,7 +36,7 @@ Puede correr con la tecla "Shift".
 
 
 # Enlace del Video de Demostración
-- enlace
+- https://youtu.be/yOFAbLXrgek
   
 # Enlace de Videojuego subido a itch.io
 - https://deividn21.itch.io/taller-pathfinding
