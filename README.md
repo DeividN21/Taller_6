@@ -1,8 +1,10 @@
 # Taller_6
 Taller: Investigando y Desarrollando el uso de Pathfinding en videojuegos
 
-# Objetivo
-Analizar y proponer una nueva característica ("feature") para el videojuego, centrándose en la mejora de la "juiciness".
+# Objetivos
+- Comprender los conceptos fundamentales de pathfinding en el desarrollo de videojuegos.
+- Explorar las herramientas y algoritmos de pathfinding disponibles en Unity.
+- Aplicar los conocimientos adquiridos proponiendo una idea práctica para la implementación de pathfinding en un prototipo de videojuego.
 
 # Enlace de Página de Materiales Utilizados
 - https://www.mixamo.com/#/
